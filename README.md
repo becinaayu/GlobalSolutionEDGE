@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Global+Solution:+%2B+Edge+%2B+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7862E&width=435&lines=Global+Solution:%2B+Edge+%2B+Computing)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
@@ -29,7 +29,7 @@
     </td>
     <td>
       <div>
-        <b>Sprint 3 <br> Edge Computing & Computer Systems</b>
+        <b>Global Solution <br> Edge Computing & Computer Systems</b>
       <td> <b>Objetivo → <br> Monitorar o nível dos oceanos </b> </td>
       </div>
     </td>
