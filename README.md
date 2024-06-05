@@ -44,12 +44,11 @@
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
-| 1          | Arduino Uno R3                |
-| 1          | Vermelho LED                  |
-| 1          | Amarelo LED                   |
-| 1          | Verde LED                     |
-| 5          | 220 Ω Resistor                |
-| 3          | Pushbutton                    |
+| 1          | ESP32                         |
+| 1          | Tela LCD                      |
+| 1          | Buzzer                        |
+| 1          | Sensor Ultrassônico           |
+
 
 <img height="450px" src="circuito.png" alt="Circuito">
 
