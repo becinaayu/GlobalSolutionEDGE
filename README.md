@@ -64,6 +64,9 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 No Wokwi, ou outra plataforma com apoio ao Arduino Uno de sua escolha, copie e cole o seguinte código para testes:
 <a href="codigo.c++"> Código </a>
 
+Se quiser saber mais sobre o projeto não deixe de assistir o video a seguir!
+<a href="video-explicativo.mp4"> Projeto Onda Consciente </a>
+
 <h2> Software </h2>
 
 <p> Para o desenvolvimento do projeto, foi usado a IDE: </p>
